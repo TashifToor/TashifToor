@@ -23,4 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
+## 📊 GitHub Stats
+
+![Tashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true)
+
+
 
