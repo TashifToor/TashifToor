@@ -86,12 +86,11 @@ Python Backend Developer | Django | FastAPI | REST APIs | MYSQL & PostgreSQL | H
 
 ## 📊 GitHub Stats
 
-[[<img src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=tokyonight&cache_seconds=1800" />](https://github-readme-stats.vercel.app/api?username=TashifToor
-)
-](https://github-readme-stats.vercel.app/api?username=TashifToor
-)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TashifToor&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=tokyonight" />
 
 ---
 
