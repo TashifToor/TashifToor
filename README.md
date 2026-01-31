@@ -4,14 +4,14 @@
 </p>
 
 <h3 align="center">
-Python Backend Developer | Django | FastAPI | REST APIs
+Python Backend Developer | Django | FastAPI | REST APIs | MYSQL & PostgreSQL | HTML & CSS | JavaScript
 </h3>
 
 <p align="center">
   <a href="https://github.com/TashifToor">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/tashiftoor/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -104,7 +104,7 @@ Python Backend Developer | Django | FastAPI | REST APIs
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tashiftoor/
 - 💻 GitHub: https://github.com/TashifToor
 
 ---
