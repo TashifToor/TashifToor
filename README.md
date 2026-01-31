@@ -40,7 +40,7 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/tashiftoor/
+- LinkedIn: https://linkedin.com/in/tashiftoor/
 - GitHub: https://github.com/TashifToor
 
 
