@@ -24,7 +24,7 @@ Python Backend Developer | Django | FastAPI | REST APIs | MYSQL & PostgreSQL | H
 - ⚙️ Experienced with **Django REST Framework & FastAPI**
 - 🗄️ Databases: **MySQL & PostgreSQL**
 - 🔄 Background tasks & async learning (**Celery, workers**)
-- 🎯 Goal: **Backend role where code quality actually matters**
+- 🎯 Goal: Backend role where code quality actually matters
 
 ---
 
