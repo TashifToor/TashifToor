@@ -5,3 +5,12 @@
 </p>
 
 
+## 👨‍💻 About Me
+
+- 🐍 Python Backend Developer
+- 🔧 Django REST Framework & FastAPI
+- 🗄️ MySQL, PostgreSQL
+- ⚙️ Learning Celery & Background Tasks
+- 🚀 Actively looking for backend opportunities
+
+
