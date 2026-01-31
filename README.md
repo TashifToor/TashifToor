@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 
-![Tashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true)
+![Tashif's GitHub stats](https://github-readme-stats.vercel.app/api?TashifToor=YOUR_USERNAME&show_icons=true)
 
 
 
