@@ -29,6 +29,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
+## 🚀 Projects
+
+- 🔗 **Django REST API for Blog App**
+  - JWT Auth, CRUD, Permissions  
+- 🔗 **FastAPI CRUD App**
+  - PostgreSQL, SQLAlchemy  
+- 🔗 **Image Optimization with Celery**
+  - Background tasks & queues
+
 
 
 
