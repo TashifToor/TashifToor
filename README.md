@@ -84,7 +84,6 @@ Python Backend Developer | Django | FastAPI | REST APIs | MYSQL & PostgreSQL | H
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
