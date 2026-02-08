@@ -94,9 +94,7 @@ Python Backend Developer | Django | FastAPI | REST APIs | MYSQL & PostgreSQL | H
 
 ---
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/TashifToor/TashifToor/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
