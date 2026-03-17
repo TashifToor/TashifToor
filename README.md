@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Tashif%20Munir%20Toor&fontSize=38&fontColor=d4a017&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20RAG%20Systems&descAlignY=60&descSize=16&descColor=a0a0b0" width="100%"/>
-
+<!-- ═══════════════════ CINEMATIC HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:1a1a2e,100:d4a017&height=280&section=header&text=Muhammad%20Tashif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20RAG%20Systems%20Builder&descAlignY=62&descSize=18&descColor=d4a017&stroke=d4a017&strokeWidth=2" width="100%"/>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4A017&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+Vector+Databases;FastAPI+%7C+Django+%7C+Python+Backend;AI%2FML+Intern+%40+Word+Wise+Solutions;2nd+Year+B.IT+%40+University+of+Punjab" alt="Typing SVG" />
