@@ -90,9 +90,10 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 ## 🏆 Hall of Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TashifToor&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=TashifToor&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="100%"/>
+
+</div>
 ---
 
 <!-- ═══ PROJECTS ═══ -->
