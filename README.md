@@ -149,7 +149,7 @@ class Tashif:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-tashif--portfolio.vercel.app-d4a017?style=for-the-badge)](https://tashif-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-TashifToor-181717?style=for-the-badge&logo=github)](https://github.com/TashifToor)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tashiftoor12345@gmail.com)
 
 </div>
 
@@ -157,9 +157,8 @@ class Tashif:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
 
-*"Code is poetry, and every function is a verse."*
+*"Code is poetry, and every function is a love."*
 
 **⭐ Star my repos if you find them useful!**
 
