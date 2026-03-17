@@ -87,14 +87,20 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 <!-- ═══ TROPHIES ═══ -->
 
-## 🏆 Hall of Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TashifToor&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="100%"/>
+![](https://img.shields.io/badge/🏆_Repositories-10+-d4a017?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/⭐_Stars-Growing-d4a017?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🔥_Commits-Active-d4a017?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🌍_Languages-6+-d4a017?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🤖_AI_Projects-3+-d4a017?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🐍_Python-Expert-3776AB?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/⚡_FastAPI-Pro-009688?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🧠_RAG_Systems-Builder-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
 </div>
----
 
 <!-- ═══ PROJECTS ═══ -->
 
