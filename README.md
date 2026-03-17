@@ -1,22 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════ CINEMATIC HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:1a1a2e,100:d4a017&height=280&section=header&text=Muhammad%20Tashif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20RAG%20Systems%20Builder&descAlignY=62&descSize=18&descColor=d4a017&stroke=d4a017&strokeWidth=2" width="100%"/>
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4A017&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+Vector+Databases;FastAPI+%7C+Django+%7C+Python+Backend;AI%2FML+Intern+%40+Word+Wise+Solutions;2nd+Year+B.IT+%40+University+of+Punjab" alt="Typing SVG" />
-</a>
+<!-- ═══ HEADER ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d1a,70:1a1a2e,100:d4a017&height=280&section=header&text=Muhammad%20Tashif&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20RAG%20Systems%20Builder&descAlignY=62&descSize=18&descColor=d4a017" width="100%"/>
+
+<!-- ═══ TYPING SVG — using DeveloperFolio (most reliable) ═══ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=800&height=55&lines=🤖+Building+Intelligent+RAG+Systems;⚡+LangChain+%7C+ChromaDB+%7C+Groq+LLM;🔥+FastAPI+%7C+Django+%7C+Python+Backend;🏥+Medical+AI+Chatbot+in+Development;🎓+B.IT+%40+University+of+Punjab%2C+Lahore;🌟+AI%2FML+Intern+%40+Word+Wise+Solutions" alt="Typing SVG" />
 
 <br/>
 
-<!-- ═══════════════════ TYPING BANNER ═══════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=D4A017&center=true&vCenter=true&width=800&height=60&lines=🤖+Building+Intelligent+RAG+Systems;⚡+LangChain+%7C+ChromaDB+%7C+Groq+LLM;🔥+FastAPI+%7C+Django+%7C+Python+Backend;🏥+Medical+AI+Chatbot+in+Development;🎓+B.IT+Student+%40+University+of+Punjab;🌟+AI%2FML+Intern+%40+Word+Wise+Solutions" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
+<!-- ═══ BADGES ═══ -->
 <img src="https://komarev.com/ghpvc/?username=TashifToor&color=d4a017&style=for-the-badge&label=PROFILE+VISITORS"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/TashifToor?color=d4a017&style=for-the-badge&logo=github&label=FOLLOWERS"/>
@@ -27,21 +19,21 @@
 
 ---
 
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
-<!-- After setup (see bottom), this auto-updates with your contributions -->
+<!-- ═══ SNAKE ANIMATION ═══ -->
+<!-- ✅ This works AFTER you run the GitHub Action (see setup guide below) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ═══ ABOUT ME ═══ -->
 
-<img align="right" alt="AI Dev GIF" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ1eHZ2NzBhMWpjNXR4NWx4dWloaXBhYW1iaW81amRiZmloM3RxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧬 `whoami`
 
@@ -71,7 +63,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 ---
 
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+<!-- ═══ STATS ═══ -->
 
 ## 📊 GitHub Analytics
 
@@ -85,16 +77,15 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=transparent&hide_border=true&title_color=d4a017&text_color=ffffff&bg_color=0d1117&langs_count=8"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TashifToor&theme=2077&utcOffset=5"/>
 
-</div>
+<br/>
 
-<!-- Activity Graph — Full Width -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TashifToor&bg_color=0d1117&color=d4a017&line=d4a017&point=ffffff&area_color=1a1a2e&area=true&hide_border=true&custom_title=Tashif%27s%20Contribution%20Timeline" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TashifToor&bg_color=0d1117&color=d4a017&line=d4a017&point=ffffff&area_color=1a1a2e&area=true&hide_border=true&custom_title=Tashif%27s%20Contribution%20Timeline" width="100%"/>
+
 </div>
 
 ---
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<!-- ═══ TROPHIES ═══ -->
 
 ## 🏆 Hall of Trophies
 
@@ -104,7 +95,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 ---
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<!-- ═══ PROJECTS ═══ -->
 
 ## 🚀 Featured Projects
 
@@ -112,7 +103,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 | 🔬 Project | 🛠️ Stack | ✨ Highlight |
 |:-----------|:---------|:------------|
-| 🏥 **Medical RAG Chatbot** | LangChain · ChromaDB · Groq · Streamlit · Docker | Ingests 8 medical PDFs, semantic Q&A |
+| 🏥 **Medical RAG Chatbot** | LangChain · ChromaDB · Groq · Streamlit · Docker | 8 medical PDFs → semantic Q&A engine |
 | 🤖 **AI CV Chatbot** | LangChain · RAG · ChromaDB · Groq · Streamlit | Resume-grounded career Q&A |
 | 🔍 **Transaction Anomaly Detector** | Isolation Forest · Scikit-learn · Pandas | Real-time fraud signal detection |
 | 🔐 **FastAPI Auth System** | FastAPI · JWT · PostgreSQL · Docker | Full auth lifecycle with token refresh |
@@ -124,7 +115,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 ---
 
-<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
+<!-- ═══ TECH STACK ═══ -->
 
 ## ⚙️ Tech Arsenal
 
@@ -173,8 +164,6 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 ---
 
-<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
-
 ## 🔨 Current Focus
 
 ```
@@ -186,9 +175,9 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 ---
 
-<!-- ═══════════════════ CONTACT ═══════════════════ -->
+<!-- ═══ CONTACT ═══ -->
 
-## 📡 Let's Connect & Collaborate
+## 📡 Let's Connect
 
 <div align="center">
 
@@ -216,44 +205,5 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 </div>
 
----
-
-<!-- ═══════════════════ SNAKE SETUP INSTRUCTIONS ═══════════════════ -->
-
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║  🐍  SNAKE ANIMATION SETUP  (one-time, ~2 minutes)              ║
-╠══════════════════════════════════════════════════════════════════╣
-║  1. In your TashifToor repo → click "Actions" tab               ║
-║  2. Click "New workflow" → "set up a workflow yourself"          ║
-║  3. Name the file: snake.yml                                     ║
-║  4. Paste this content:                                          ║
-║                                                                  ║
-║  name: Generate Snake                                            ║
-║  on:                                                             ║
-║    schedule: [{cron: "0 */12 * * *"}]                           ║
-║    workflow_dispatch:                                            ║
-║  jobs:                                                           ║
-║    generate:                                                     ║
-║      runs-on: ubuntu-latest                                      ║
-║      steps:                                                      ║
-║        - uses: Platane/snk/svg-only@v3                          ║
-║          with:                                                   ║
-║            github_user_name: TashifToor                         ║
-║            outputs: |                                            ║
-║              dist/github-contribution-grid-snake.svg            ║
-║              dist/github-contribution-grid-snake-dark.svg       ║
-║              ?palette=github-dark                               ║
-║        - uses: crazy-max/ghaction-github-pages@v3               ║
-║          with:                                                   ║
-║            target_branch: output                                 ║
-║            build_dir: dist                                       ║
-║          env:                                                    ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            ║
-║                                                                  ║
-║  5. Run the workflow manually once → done! 🎉                   ║
-╚══════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+<!-- ═══ FOOTER ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a017,50:1a1a2e,100:000000&height=140&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
