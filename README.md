@@ -65,25 +65,6 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 <!-- ═══ STATS ═══ -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<username=TashifToor&show_icons=true&theme=transparent&hide_border=true&title_color=d4a017&icon_color=d4a017&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
-<imguser=TashifToor&theme=dark&hide_border=true&background=0d1117&ring=d4a017&fire=ff6b35&currStreakLabel=d4a017&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff"/>
-
-<br/>
-
-<username=TashifToor&layout=compact&theme=transparent&hide_border=true&title_color=d4a017&text_color=ffffff&bg_color=0d1117&langs_count=8"/>
-<username=TashifToor&theme=2077&utcOffset=5"/>
-
-<br/>
-
-<username=TashifToor&bg_color=0d1117&color=d4a017&line=d4a017&point=ffffff&area_color=1a1a2e&area=true&hide_border=true&custom_title=Tashif%27s%20Contribution%20Timeline" width="100%"/>
-
-</div>
-
----
 
 <!-- ═══ TROPHIES ═══ -->
 
