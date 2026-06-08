@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d1a,70:1a1a2e,100:d4a017&height=280&section=header&text=Muhammad%20Tashif&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20RAG%20Systems%20Builder&descAlignY=62&descSize=18&descColor=d4a017" width="100%"/>
 
 <!-- ═══ TYPING SVG — using DeveloperFolio (most reliable) ═══ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=800&height=55&lines=🤖+Building+Intelligent+RAG+Systems;⚡+LangGraph+LangChain+%7C+ChromaDB+FAISS+%7C+Groq+LLM;🔥+FastAPI+%7C+Django+%7C+Python+Backend;🏥+TalentIQ+Agentic+AI+in+Development;🎓+BSIT+%40+University+of+Punjab%2C+Lahore;🌟+I%2FBackend+Developer+%40+M1+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=800&height=55&lines=🤖+Building+Intelligent+RAG+Systems;⚡+LangGraph+LangChain+%7C+ChromaDB+FAISS+%7C+Groq+LLM;🔥+FastAPI+%7C+Django+%7C+Flask;🏥+TalentIQ+Agentic+AI+in+Development;🎓+BSIT+%40+University+of+Punjab%2C+Lahore;🌟%2FBackend+Developer+%40+M1+Solutions" alt="Typing SVG" />
 
 <br/>
 
