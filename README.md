@@ -40,16 +40,16 @@
 ```yaml
 name:     Muhammad Tashif Munir Toor
 alias:    Tashif
-role:     AI/ML Engineer & Backend Developer
+role:     Gen AI Engineer & Backend Developer
 location: Lahore, Pakistan 🇵🇰
 
 currently:
-  - 🧠  AI/ML Intern @ Word Wise Solutions
-  - 🎓  BS.IT — 2nd Semester, Univ. of Punjab
-  - 🏥  Building: Medical RAG Chatbot
+  - 🧠  AI/ML   Backend Developer at M1 Solutions
+  - 🎓  BS.IT —  University of Punjab
+  - 🏥  Building: TalentIQ
 
 expertise:
-  AI_ML:    [ LangChain, RAG, ChromaDB, Groq LLM, SentenceTransformers ]
+  AI_ML:    [ LangChain, RAG, ChromaDB, Groq LLM, SentenceTransformers,Knowledge Gragh, Grapg DB, LangGraph , Neo4j Aura ]
   Backend:  [ FastAPI, Django, DRF, Celery, REST APIs ]
   Database: [ PostgreSQL, MySQL, ChromaDB, Redis ]
   DevOps:   [ Docker, Git, GitHub Actions ]
@@ -91,6 +91,8 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 
 | 🔬 Project | 🛠️ Stack | ✨ Highlight |
 |:-----------|:---------|:------------|
+| 🏥 **TalentIQ AI Agent** | LangChain · FAISS · LangGraph · Agentic AI · Groq ·  Next.js · Docker | HR Recruitment Agent |
+| 🏥 **Bizledger ** | Django · DRF · PostgresSQL · React · Docker | Multi Tenant Fintech SAAS App |
 | 🏥 **Medical RAG Chatbot** | LangChain · ChromaDB · Groq · Streamlit · Docker | 8 medical PDFs → semantic Q&A engine |
 | 🤖 **AI CV Chatbot** | LangChain · RAG · ChromaDB · Groq · Streamlit | Resume-grounded career Q&A |
 | 🔍 **Transaction Anomaly Detector** | Isolation Forest · Scikit-learn · Pandas | Real-time fraud signal detection |
@@ -155,7 +157,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 ## 🔨 Current Focus
 
 ```
-🏥  Medical RAG Chatbot (MediCare AI)    ████████████████░░  88%
+🏥  RAG Chatbot & Agentic AI & GraphRAG  ████████████████░░  88%
 🤖  LLM Agent Workflows                  ████████░░░░░░░░░░  47%
 🧠  Fine-tuning & RLHF Pipelines         █████░░░░░░░░░░░░░  28%
 🐳  Kubernetes & Cloud Orchestration     ████░░░░░░░░░░░░░░  22%
