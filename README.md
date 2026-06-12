@@ -157,7 +157,7 @@ open_to:    [ Freelance, Collaborations, Open Source ]
 ## 🔨 Current Focus
 
 ```
-🏥  RAG Chatbot & Agentic AI & GraphRAG  ████████████████░░  88%
+🏥  RAG Chatbot & Agentic AI & GraphRAG  ████████████████    88%
 🤖  LLM Agent Workflows                  ████████░░░░░░░░░░  47%
 🧠  Fine-tuning & RLHF Pipelines         █████░░░░░░░░░░░░░  28%
 🐳  Kubernetes & Cloud Orchestration     ████░░░░░░░░░░░░░░  22%
