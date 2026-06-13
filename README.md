@@ -236,7 +236,7 @@ open_to:    [ Remote Roles, Freelance, Collaborations, Open Source ]
   <img src="https://img.shields.io/badge/Gmail-tashiftoor12345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="[https://tashifeng.vercel.app/]">
+<a href="https://tashifeng.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-tashif--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
