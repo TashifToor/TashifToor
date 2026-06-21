@@ -189,7 +189,7 @@ open_to:    [ Remote Roles, Freelance, Collaborations, Open Source ]
 ## 🔨 Current Focus
 
 ```
-🤖  TalentIQ — Agentic RAG SaaS          ████████████░░░░░░  68%
+🤖  TalentIQ — Agentic RAG SaaS          ████████████        68%
 🕸️  GraphRAG & Neo4j Knowledge Graphs    ████████░░░░░░░░░░  46%
 🧠  LLM Agent Workflows (LangGraph)      ████████████░░░░░░  65%
 ☁️  Cloud Deployment (AWS EC2 / VPS)     ██████░░░░░░░░░░░░  35%
