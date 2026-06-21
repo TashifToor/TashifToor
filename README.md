@@ -116,7 +116,7 @@ open_to:    [ Remote Roles, Freelance, Collaborations, Open Source ]
 
 | 🔬 Project | 🛠️ Stack | ✨ Highlight |
 |:-----------|:---------|:------------|
-| 🤖 **TalentIQ** *(In Development)* | LangGraph · FastAPI · FAISS · Groq LLaMA 3.3 70B · Next.js · Docker | Agentic HR recruitment SaaS — CV screening pipeline, RAG chatbot, freemium model |
+| 🤖 **TalentIQ** *(In Development - MVP Ready)* | LangGraph · FastAPI · FAISS · Groq LLaMA 3.3 70B · Next.js · Docker | Agentic HR recruitment SaaS — CV screening pipeline, RAG chatbot, freemium model |
 | 📒 **BizLedger** | Django · DRF · PostgreSQL · JWT · React/Vite · Docker | Multi-tenant fintech SaaS — invoicing, expenses, role-based access, 1000+ transactions |
 | 🏥 **MediCare AI** | LangChain · ChromaDB · Groq · FastAPI · Docker · Streamlit | Medical RAG chatbot — 94% retrieval accuracy, anti-hallucination guards, sub-2s response |
 | 🕌 **HadeesGPT** | LangChain · ChromaDB · Groq · FastAPI | Islamic Hadees RAG search (Ibn Majah corpus) — 92% query accuracy |
