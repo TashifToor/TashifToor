@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══ HEADER ═══ -->
+<!-- ══ HEADER ══ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d1a,70:1a1a2e,100:d4a017&height=280&section=header&text=Muhammad%20Tashif&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20RAG%20Systems%20Builder&descAlignY=62&descSize=18&descColor=d4a017" width="100%"/>
 
 <!-- ═══ TYPING SVG ═══ -->
