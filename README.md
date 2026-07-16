@@ -247,7 +247,7 @@ open_to:    [ Remote Roles, Freelance, Collaborations, Open Source ]
 <div align="center">
 
 > *"I don't just write code — I build systems that think."*
->
+
 > **— Muhammad Tashif Munir Toor**
 
 </div>
