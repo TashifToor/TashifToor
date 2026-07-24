@@ -220,7 +220,7 @@ open_to:    [ Remote Roles, Freelance, Collaborations, Open Source ]
 
 <!-- ═══ CONTACT ═══ -->
 
-## 📡 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
