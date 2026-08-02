@@ -1,96 +1,121 @@
 <div align="center">
 
-<!-- ══ HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d1a,70:1a1a2e,100:d4a017&height=240&section=header&text=Muhammad%20Tashif&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%C2%B7%20Backend%20Architect&descAlignY=58&descSize=17&descColor=d4a017" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1a1a2e,70:2d1b00,100:d4a017&height=270&section=header&text=MUHAMMAD%20TASHIF&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20·%20Backend%20Architect%20·%20RAG%20Systems&descAlignY=54&descSize=16&descColor=d4a017&fontColor=f5f5f5" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=D4A017&center=true&vCenter=true&width=650&height=40&lines=Building+agentic+RAG+%26+recruiting+systems;LangGraph+%C2%B7+FastAPI+%C2%B7+Neo4j+%C2%B7+FAISS;HEC+Top+Performer+%E2%80%94+NCEAC+GenAI+Cohort+3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D4A017&center=true&vCenter=true&width=700&height=45&lines=I+build+systems+that+think.;Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Knowledge+Graphs;Currently+shipping%3A+TalentIQ" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00c853?style=for-the-badge&logo=statuspage&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🏆_HEC_Top_Performer-NCEAC_Cohort_3-d4a017?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=TashifToor&color=d4a017&style=for-the-badge&label=VISITORS"/>
+<img src="https://img.shields.io/badge/●-OPEN%20TO%20WORK-1a1a2e?style=for-the-badge&labelColor=00c853&color=0d1117"/>
+<img src="https://img.shields.io/badge/🏆-HEC%20TOP%20PERFORMER-1a1a2e?style=for-the-badge&labelColor=d4a017&color=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=TashifToor&style=for-the-badge&color=d4a017&labelColor=0d1117&label=VISITORS"/>
 
 </div>
 
-<br/>
+<br>
 
-I'm a backend-leaning AI engineer who builds systems around LLMs rather than just calling an API and hoping. Most of what I ship lives at the intersection of **retrieval, agents, and production backend engineering** — RAG pipelines that don't hallucinate, agentic workflows that actually finish the job, and the FastAPI/Django plumbing that keeps it all running.
-
-Right now I'm building **TalentIQ**, an agentic recruiting platform that screens candidates end-to-end — and learning GraphRAG on Neo4j to make retrieval reason over relationships, not just similarity.
-
-<br/>
-
-## `whoami`
-
-```yaml
-name:     Muhammad Tashif Munir Toor
-role:     Generative AI Engineer & Python Backend Developer
-location: Lahore, Pakistan
-
-currently:
-  building:  TalentIQ — agentic RAG recruiting SaaS
-  learning:  GraphRAG · Neo4j AuraDB · knowledge graphs
-  working:   Backend Developer @ M1 Solutions (airline-ops platform)
-  studying:  BS.IT — University of the Punjab, Lahore
-
-stack:
-  genai:     LangChain, LangGraph, RAG, Agentic RAG, GraphRAG
-  llms:      Groq (LLaMA 3.3 70B), OpenAI API, Gemini API
-  retrieval: FAISS, ChromaDB, Neo4j AuraDB
-  backend:   FastAPI, Django, DRF, Celery, Redis
-  data:      PostgreSQL, MySQL, MongoDB
-  devops:    Docker, GitHub Actions
-  frontend:  React, Next.js, Tailwind CSS
-
-open_to: [Remote roles, Freelance, Collaboration, Open source]
-```
-
-<br/>
-
-<!-- ═══ FEATURED WORK ═══ -->
-## Featured work
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🤖 TalentIQ** &nbsp;<sub>in development · MVP-stage</sub>
-Agentic HR recruiting SaaS — async CV screening pipeline, RAG-based candidate chat, freemium tier.
-`LangGraph` `FastAPI` `Celery/Redis` `FAISS` `Groq` `Next.js`
+### `> whoami --verbose`
 
-</td>
-<td width="50%" valign="top">
+I don't just call an LLM API and call it a day — I build the **retrieval, memory, and agent orchestration** around it so the system actually holds up in production. My work sits at the intersection of RAG pipelines, agentic workflows, and the backend engineering that keeps both from falling over.
 
-**📒 BizLedger**
-Multi-tenant fintech SaaS handling 1,000+ transactions — invoicing, expenses, role-based access.
-`Django` `DRF` `PostgreSQL` `JWT` `React/Vite`
+📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 BS.IT, University of the Punjab
+💼 Backend Developer @ **M1 Solutions** (airline-ops platform)
+🏗️ Building **TalentIQ** — agentic recruiting SaaS
+📡 Learning **GraphRAG** on Neo4j — retrieval that reasons over relationships, not just cosine distance
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-**🏥 MediCare AI**
-Medical RAG chatbot, 94% retrieval accuracy, anti-hallucination guardrails, sub-2s response time.
-`LangChain` `ChromaDB` `Groq` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-**🕌 HadeesGPT**
-Domain RAG search over the Ibn Majah corpus, 92% query accuracy.
-`LangChain` `ChromaDB` `Groq` `FastAPI`
+<img src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a017&icon_color=d4a017&text_color=e6e6e6&count_private=true&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:d4a017&height=3&width=1000" width="100%"/>
+</div>
+
+<br>
+
+## 🧠 Arsenal
+
+<div align="center">
+
+**AI / Retrieval**
+<br>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,redis&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/Groq_LLaMA_3.3-1a1a2e?style=flat-square&logo=groq&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/OpenAI_API-1a1a2e?style=flat-square&logo=openai&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/FAISS-1a1a2e?style=flat-square&logo=meta&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square&logoColor=d4a017"/>
+<img src="https://img.shields.io/badge/Neo4j_AuraDB-1a1a2e?style=flat-square&logo=neo4j&logoColor=d4a017"/>
+
+<br><br>
+
+**Backend & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,mongodb,redis&theme=dark"/>
+
+<br><br>
+
+**Frontend & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,docker,git,githubactions&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:d4a017&height=3&width=1000" width="100%"/>
+</div>
+
+<br>
+
+## 🚀 Featured builds
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 TalentIQ</h3>
+<sub><b>in development · MVP-stage</b></sub>
+<p>Agentic HR recruiting SaaS — async CV screening pipeline, RAG candidate chat, freemium model.</p>
+<img src="https://img.shields.io/badge/-LangGraph-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-Celery/Redis-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-FAISS-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-Groq-1a1a2e?style=flat-square&color=d4a017"/>
+</td>
+<td width="50%" valign="top">
+<h3>📒 BizLedger</h3>
+<sub><b>multi-tenant fintech SaaS</b></sub>
+<p>Invoicing, expenses, role-based access — battle-tested on 1,000+ live transactions.</p>
+<img src="https://img.shields.io/badge/-Django-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-DRF-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-JWT-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-React/Vite-1a1a2e?style=flat-square&color=d4a017"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏥 MediCare AI</h3>
+<sub><b>medical RAG chatbot</b></sub>
+<p>94% retrieval accuracy, anti-hallucination guardrails, sub-2s response time.</p>
+<img src="https://img.shields.io/badge/-LangChain-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-ChromaDB-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-Groq-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&color=d4a017"/>
+</td>
+<td width="50%" valign="top">
+<h3>🕌 HadeesGPT</h3>
+<sub><b>Islamic RAG search engine</b></sub>
+<p>Semantic search over the Ibn Majah corpus with 92% query accuracy.</p>
+<img src="https://img.shields.io/badge/-LangChain-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-ChromaDB-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-Groq-1a1a2e?style=flat-square&color=d4a017"/> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&color=d4a017"/>
+</td>
+</tr>
+</table>
+
 <details>
-<summary><b>More projects</b></summary>
-<br/>
+<summary><b>🗂️ More projects</b></summary>
+<br>
 
 | Project | Stack | Highlight |
 |:--|:--|:--|
@@ -103,44 +128,59 @@ Domain RAG search over the Ibn Majah corpus, 92% query accuracy.
 
 </details>
 
-<br/>
+<br>
 
-## Currently leveling up
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:d4a017&height=3&width=1000" width="100%"/>
+</div>
 
-```
-TalentIQ (Agentic RAG SaaS)        ████████████████░░░░  68%
-GraphRAG & Neo4j knowledge graphs  █████████░░░░░░░░░░░  46%
+<br>
+
+## 📡 Currently leveling up
+
+```text
+TalentIQ (Agentic RAG SaaS)        ██████████████░░░░░░  68%
 LangGraph agent workflows          █████████████░░░░░░░  65%
+GraphRAG & Neo4j knowledge graphs  █████████░░░░░░░░░░░  46%
 Cloud deployment (AWS EC2 / VPS)   ███████░░░░░░░░░░░░░  35%
 Fine-tuning & RLHF pipelines       ████░░░░░░░░░░░░░░░░  22%
 ```
 
-<br/>
+<br>
 
-## Experience
+## 🏢 Experience & credentials
 
-| Role | Company | Period |
-|:--|:--|:--|
-| Backend Developer | M1 Solutions — Remote | 2026 – Present |
-| Associate AI Developer (Team Lead) | WorldWise Solutions — Remote | 2025 – 2026 |
-| Python Backend Developer (Team Lead) | CodeCelix — Remote | 2024 – 2025 |
-| Freelance AI & Web Developer | Tashif Software | 2024 – Present |
+<table width="100%">
+<tr><th align="left">Role</th><th align="left">Company</th><th align="left">Period</th></tr>
+<tr><td>Backend Developer</td><td>M1 Solutions — Remote</td><td>2026 – Present</td></tr>
+<tr><td>Associate AI Developer (Team Lead)</td><td>WorldWise Solutions — Remote</td><td>2025 – 2026</td></tr>
+<tr><td>Python Backend Developer (Team Lead)</td><td>CodeCelix — Remote</td><td>2024 – 2025</td></tr>
+<tr><td>Freelance AI & Web Developer</td><td>Tashif Software</td><td>2024 – Present</td></tr>
+</table>
 
-**Certifications** — Generative AI Application Developer, 🥇 Top Performer, HEC · NCEAC · PakAngels · UETIANS Lahore Endowment Foundation (May 2026) · Web Developer Certification, CodeCelix (Nov 2024)
+🏆 **Generative AI Application Developer — Top Performer**, HEC · NCEAC · PakAngels · UETIANS Lahore Endowment Foundation *(May 2026)*
+🎓 **Web Developer Certification**, CodeCelix *(Nov 2024)*
 
-<br/>
+<br>
 
-<!-- ═══ GITHUB STATS ═══ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:d4a017&height=3&width=1000" width="100%"/>
+</div>
+
+<br>
+
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&bg_color=0d1117&title_color=d4a017&icon_color=d4a017&text_color=ffffff&border_color=d4a017&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=dark&bg_color=0d1117&title_color=d4a017&text_color=ffffff&border_color=d4a017&langs_count=8"/>
+## 📊 The numbers
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TashifToor&theme=dark&background=0d1117&ring=d4a017&fire=d4a017&currStreakLabel=d4a017&border=d4a017" alt="GitHub Streak" width="65%"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a017&text_color=e6e6e6&langs_count=8"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TashifToor&theme=dark&hide_border=true&background=0d1117&ring=d4a017&fire=d4a017&currStreakLabel=d4a017"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TashifToor&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <picture>
@@ -150,24 +190,27 @@ Fine-tuning & RLHF pipelines       ████░░░░░░░░░░░
   </picture>
 </div>
 
-<br/>
+<br>
 
-<!-- ═══ CONTACT ═══ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:d4a017&height=3&width=1000" width="100%"/>
+</div>
+
+<br>
+
 <div align="center">
 
-### Let's build something
+### 📫 Let's build something
 
-<a href="https://github.com/TashifToor"><img src="https://img.shields.io/badge/GitHub-TashifToor-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/tashiftoor"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Tashif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:tashiftoor12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-tashiftoor12345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://tashifeng.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-tashifeng.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/TashifToor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=d4a017"/></a>
+<a href="https://linkedin.com/in/tashiftoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=d4a017"/></a>
+<a href="mailto:tashiftoor12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=d4a017"/></a>
+<a href="https://tashifeng.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4a017"/></a>
 
-<br/><br/>
+<br><br>
 
-*"I don't just write code — I build systems that think."*
+> *"I don't just write code — I build systems that think."*
+> **— Muhammad Tashif Munir Toor**
 
 </div>
 
