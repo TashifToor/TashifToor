@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1a1a2e,70:2d1b00,100:d4a017&height=270&section=header&text=MUHAMMAD%20TASHIF&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20·%20Backend%20Architect%20·%20RAG%20Systems&descAlignY=54&descSize=16&descColor=d4a017&fontColor=f5f5f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1a1a2e,70:2d1b00,100:d4a017&height=270&section=header&text=MUHAMMAD%20TASHIF&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20·%20Backend%20Architect%20·%20RAG%20Systems&descAlignY=54&descSize=16&descColor=d4a017" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D4A017&center=true&vCenter=true&width=700&height=45&lines=I+build+systems+that+think.;Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Knowledge+Graphs;Currently+shipping%3A+TalentIQ" alt="Typing SVG" />
 
@@ -22,15 +22,17 @@
 
 I don't just call an LLM API and call it a day — I build the **retrieval, memory, and agent orchestration** around it so the system actually holds up in production. My work sits at the intersection of RAG pipelines, agentic workflows, and the backend engineering that keeps both from falling over.
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 BS.IT, University of the Punjab
-💼 Backend Developer @ **M1 Solutions** (airline-ops platform)
-🏗️ Building **TalentIQ** — agentic recruiting SaaS
-📡 Learning **GraphRAG** on Neo4j — retrieval that reasons over relationships, not just cosine distance
+<br>
+
+📍&nbsp; Lahore, Pakistan &nbsp;&nbsp;·&nbsp;&nbsp; 🎓&nbsp; BS.IT, University of the Punjab<br>
+💼&nbsp; Backend Developer @ **M1 Solutions** (airline-ops platform)<br>
+🏗️&nbsp; Building **TalentIQ** — agentic recruiting SaaS<br>
+📡&nbsp; Learning **GraphRAG** on Neo4j — retrieval that reasons over relationships, not just cosine distance
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a017&icon_color=d4a017&text_color=e6e6e6&count_private=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a017&icon_color=d4a017&text_color=e6e6e6" width="100%"/>
 
 </td>
 </tr>
