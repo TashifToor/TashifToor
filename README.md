@@ -19,6 +19,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8a2be2,100:0f0c29&height=3&width=1000" width="100%"/>
+
 ## System stack
 
 I think in layers — here's roughly how a project of mine is put together:
@@ -66,7 +68,7 @@ I think in layers — here's roughly how a project of mine is put together:
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:00d9ff,100:0f0c29&height=3&width=1000" width="100%"/>
 
 ## Featured builds
 
@@ -103,7 +105,7 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8a2be2,100:0f0c29&height=3&width=1000" width="100%"/>
 
 ## Currently in progress
 
@@ -119,7 +121,7 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:00d9ff,100:0f0c29&height=3&width=1000" width="100%"/>
 
 ## Career
 
@@ -140,7 +142,7 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8a2be2,100:0f0c29&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
@@ -157,4 +159,4 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f3460&height=4&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20stopping%20by%20—%20drop%20a%20⭐&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
