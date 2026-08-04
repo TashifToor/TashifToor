@@ -123,6 +123,35 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:00d9ff,100:0f0c29&height=3&width=1000" width="100%"/>
 
+## Live activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00d9ff&icon_color=8a2be2&text_color=e6e6e6"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=dark&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=e6e6e6&langs_count=8"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TashifToor&theme=dark&hide_border=true&background=0f0c29&ring=00d9ff&fire=8a2be2&currStreakLabel=00d9ff" width="60%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TashifToor&bg_color=0f0c29&color=00d9ff&line=00d9ff&point=8a2be2&area=true&hide_border=true&area_color=8a2be2" width="95%"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/TashifToor/TashifToor/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8a2be2,100:0f0c29&height=3&width=1000" width="100%"/>
+
 ## Career
 
 ```
