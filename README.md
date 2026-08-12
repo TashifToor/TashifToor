@@ -158,7 +158,7 @@ Domain-specific RAG search over the Ibn Majah corpus — 92% query accuracy on a
 2024 ─┬─ Python Backend Developer (Team Lead)   @ CodeCelix — Remote
       ├─ Freelance AI & Web Developer            @ Tashif Software  (ongoing)
 2025 ─┼─ Associate AI Developer (Team Lead)      @ WorldWise Solutions — Remote
-2026 ─┴─ Backend Developer                       @ M1 Solutions — Remote   ← current
+2026 ─┴─ Backend Developer                       @ M1 Solutions — Remote   
 ```
 
 🎓 BS.IT — University of the Punjab, Lahore
