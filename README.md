@@ -76,7 +76,7 @@ I think in layers — here's roughly how a project of mine is put together:
 Agentic HR recruiting SaaS. HR teams drown in unstructured resumes — LangGraph orchestrates the async screening pipeline, FAISS handles semantic candidate matching, Groq powers a real-time RAG chat over each candidate's profile.
 `LangGraph` `FastAPI` `Celery/Redis` `FAISS` `Groq` `Next.js`
 
-**02 · BizLedger**
+**02 · BizLedger-Multi-tenant fintech SaaS**
 Multi-tenant fintech SaaS, live-tested on 1,000+ real transactions. Invoicing, expense tracking, and role-based access built for teams that can't afford a bug in the billing logic.
 `Django` `DRF` `PostgreSQL` `JWT` `React/Vite`
 
