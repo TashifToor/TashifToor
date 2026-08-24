@@ -136,7 +136,7 @@ Nov 2025  Python Backend Dev (Lead)      @ CodeCelix            — 8 prod endpo
 
 <div align="center">
 
-<img height="160em" src="https://streak-stats.demolab.com/?user=TashifToor&theme=dark&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TashifToor&theme=github_dark"/>
 &nbsp;
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TashifToor&theme=github_dark"/>
 
