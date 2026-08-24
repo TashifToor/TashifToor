@@ -60,20 +60,6 @@ infra:           Docker · Celery · GitHub Actions · Postman · Streamlit
 
 <br/>
 
-**▸ &nbsp;LexarAI** &nbsp;·&nbsp; `US Legal Tech Client` &nbsp;·&nbsp; 2025
-> Agentic document intelligence over 10K+ case files for a US legal firm. Hybrid BM25 + dense retrieval, citation-anchored responses — zero hallucination tolerance in legal workflows. 200+ concurrent users · 91% citation accuracy · 1.4s avg response · deployed on client AWS.
-
-`FastAPI` `LangChain` `FAISS` `GPT-4` `PostgreSQL` `Docker`
-
----
-
-**▸ &nbsp;VaultOps** &nbsp;·&nbsp; `UK E-commerce Client` &nbsp;·&nbsp; 2025
-> Unified inventory + ops API across 3 legacy warehouse systems for a UK retailer. Event-driven stock sync via Celery, Shopify webhook dispatcher, row-level locking on critical mutations. 99.6% stock accuracy · £40K/month oversell losses eliminated · zero-downtime migrations.
-
-`Django` `DRF` `PostgreSQL` `Celery` `Redis` `Docker`
-
----
-
 **▸ &nbsp;TalentIQ** &nbsp;·&nbsp; `flagship · active development` &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; [`repo ↗`](https://github.com/TashifToor/TalentIQ_Agent)
 > Multi-tenant agentic HR SaaS. LangGraph pipeline — Route → Retrieve → Grade → Rewrite → Generate. FAISS semantic search over 500+ CV profiles. RBAC, voice interaction, real-time Next.js dashboard. Cuts recruiter time-to-shortlist by 60%.
 
