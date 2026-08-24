@@ -136,13 +136,9 @@ Nov 2025  Python Backend Dev (Lead)      @ CodeCelix            — 8 prod endpo
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=TashifToor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9"/>
+<img height="160em" src="https://streak-stats.demolab.com/?user=TashifToor&theme=dark&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555"/>
 &nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashifToor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&langs_count=7"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TashifToor&theme=dark&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555" width="58%"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TashifToor&theme=github_dark"/>
 
 <br/><br/>
 
