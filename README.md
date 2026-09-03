@@ -68,7 +68,7 @@ infra:           Docker · Celery · GitHub Actions · Postman · Streamlit
 ---
 
 **▸ &nbsp;MediCare AI** &nbsp;·&nbsp; `production` &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; [`repo ↗`](https://github.com/TashifToor/Medicare-AI)
-> Medical RAG pipeline over 8-document clinical corpus. SentenceTransformer embeddings, anti-hallucination prompt guards, Dockerised Streamlit app. 94% retrieval accuracy · sub-2s under concurrent load.
+> Medical RAG pipeline over 10+ document clinical corpus. SentenceTransformer embeddings, anti-hallucination prompt guards, Dockerised Streamlit app. 94% retrieval accuracy · sub-2s under concurrent load.
 
 `LangChain` `ChromaDB` `Groq` `FastAPI` `Docker`
 
