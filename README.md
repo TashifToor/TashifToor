@@ -23,7 +23,7 @@ class TashifToor:
     company    = "M1 Solution — airline-ops platform (FastAPI)"
     building   = "TalentIQ — agentic recruitment SaaS"
     stack      = ["LangGraph", "FastAPI", "FAISS", "LLaMA 3.3 70B", "PostgreSQL", "Docker"]
-    shipped    = ["LexarAI (US)", "VaultOps (UK)", "TalentIQ", "MediCare AI", "BizLedger"]
+    shipped    = ["Recrouse", "HadeesGPT", "MediCare AI", "BizLedger"]
     location   = "Lahore, PK — open to remote worldwide"
     available  = True
 ```
